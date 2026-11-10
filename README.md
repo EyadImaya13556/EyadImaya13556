@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Eyad 👋
 
-<!--
-**EyadImaya13556/EyadImaya13556** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Recent Bachelor of Information Technology graduate (UTS), majoring in Business Information Systems Management with a sub-major in Networking and Cybersecurity. Looking for my first role in IT support, service desk or project coordination.
 
-Here are some ideas to get you started:
+- ☁️ High Distinction in Cloud Computing Infrastructure
+- 🗄️ Strong in SQL and relational databases
+- 🔐 Studying for CompTIA Security+
+- 🖥️ Currently building an Active Directory home lab
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Skills:** SQL · Python · Java · PowerShell · Windows Server · HTML/CSS/JavaScript
+
+**Currently learning:** Git · Active Directory administration
+
+🔗 LinkedIn: linkedin.com/in/eyad-imaya
